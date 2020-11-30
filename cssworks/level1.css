@@ -1,0 +1,62 @@
+/*tagname or id or classname{
+
+property:value;
+property1:value2;
+
+}*/
+ 
+div{
+
+    margin:auto ;  
+
+}
+
+div li{
+    margin-left: 260px;
+}
+
+div label{
+    margin-left: 300px;
+}
+body{
+
+background-color:rgb(241, 245, 20);
+background-image: url(Pick-You-Best-Squad-1-min.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+}
+
+h1{
+text-align: center;
+color:wheat;
+}
+
+#one{
+    color:white ;
+}
+
+div{
+
+    border-style:groove;
+    border-color: sienna;
+    border-width: 5px;
+    background-color:wheat;
+    width: 50%;
+}
+
+#MI{
+border-style:groove;
+border-color:rgb(61, 3, 3);
+border-width: 5px;
+background-color: tan;
+}
+
+
+.team{
+border-style:groove;
+border-color:darkred;
+border-width: 5px;
+background-color:goldenrod;
+
+}

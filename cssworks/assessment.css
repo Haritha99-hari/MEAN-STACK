@@ -1,0 +1,17 @@
+li{
+
+color:rgb(7, 182, 53);
+}
+
+.one{
+color: rgb(186, 11, 172);
+}
+
+#sec{
+
+    border-style: solid;
+    border-color: rgb(28, 10, 166);
+    border-width: 5px;
+    width: 50%;
+    color:brown;
+}
