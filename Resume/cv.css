@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#header{
+    display: grid;
+    grid-template-columns: 2.5fr 5fr;
+   background-color: lightgrey;
+}
+ #image{
+     
+    
+     margin-top: 20px;
+     margin-bottom: 20px;
+     margin-left: 10px;
+ }
+ #name{
+     letter-spacing: 0.5ch;
+ }
+#underline{
+    width: 540px;
+height: 7px;
+margin-top: 20px;
+background:black;
+
+}
+
+#obj{
+    background: lightslategray ;
+    width: 830px;
+    margin-left: 1.8%;
+}

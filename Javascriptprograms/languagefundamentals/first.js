@@ -14,7 +14,7 @@ class Person{
 
 }
 
-// method calling
+// method calling setVal() is method coz it is inside class
 
 var p=new Person()
 p.setVal()

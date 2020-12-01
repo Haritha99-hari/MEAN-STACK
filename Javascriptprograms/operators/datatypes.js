@@ -10,5 +10,4 @@ var isgood = true;    // boolean
 console.log(typeof (isgood))    // boolean
 
 
-// number,string,boolean.undefined
-
+// number,string,boolean,undefined
