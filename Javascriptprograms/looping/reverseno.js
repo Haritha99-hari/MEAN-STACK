@@ -8,3 +8,7 @@ var digit=num%10  // 2
 num=Math.floor(num/10)  //1
 
 var digit=1%10  //1
+
+
+ 
+ 

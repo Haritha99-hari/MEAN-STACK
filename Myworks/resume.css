@@ -18,3 +18,11 @@
  #name{
      letter-spacing: 0.5ch;
  }
+
+ #underline{
+    width: 540px;
+height: 7px;
+margin-top: 20px;
+background:black;
+
+}
