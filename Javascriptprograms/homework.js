@@ -1,6 +1,7 @@
 // Prime nos btw 10 to 50
 var lower = 10;
 var upper = 50;
+var flag =0;
 
 for (let i = lower; i <= upper; i++) {
     let flag = 0;
@@ -8,13 +9,13 @@ for (let i = lower; i <= upper; i++) {
     
     for (let j = 2; j < i; j++) {
         if (i % j == 0) {
-            flag = 1;
+            flag= flag +1;
             break;
         }
     }
 
 
-    if (i > 1 && flag == 0) {
+    if ( flag == 0) {
         console.log(i);
     }
 }
